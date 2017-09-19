@@ -8,4 +8,4 @@ canot use "crop image" fuction at all;<br />
 
 minor features i should complete:<br />
 design a new collection view for showing all photos in local storage;<br />
-figure out how to custom a camera(follow the tips on <br />https://www.youtube.com/watch?v=7TqXrMnfJy8)<br />
+figure out how to custom a camera(follow the tips on <br />[customCamera](https://www.youtube.com/watch?v=7TqXrMnfJy8"Tutorial for cuscustomCamera")<br />
